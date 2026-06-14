@@ -1,4 +1,4 @@
-theme: Plain Jane, 2
+theme: Zurich
 footer: Kenji Rikitake / oueees 20260623 topic00
 slidenumbers: true
 autoscale: true
