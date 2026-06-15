@@ -209,7 +209,6 @@ Sharing the same link by multiple nodes and communication devices
 # Photo and image credits
 
 * All photos and images are modified and edited by Kenji Rikitake
-* Photos are from Unsplash.com unless otherwise noted
 * Stockholm telephone tower: [Tekniska museet](https://www.flickr.com/photos/tekniskamuseet/6838150900/in/album-72157629589461917/), from Flickr, CC BY 2.0
 * Jönköping telephone lines: [Tekniska museet](https://www.flickr.com/photos/tekniskamuseet/6978810049/in/album-72157629575713829/), from Flickr, CC BY 2.0
 * Tekniska museet photo: Kenji Rikitake, CC BY 4.0
