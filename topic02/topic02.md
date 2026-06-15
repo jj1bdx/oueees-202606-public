@@ -11,13 +11,13 @@ autoscale: true
 
 <!-- Use Deckset 2.0, 16:9 aspect ratio -->
 
-^ 大阪大学基礎工学部 電気工学特別講義 2026年6月23日分 トピック01 遅延と物理法則、集中的コミュニケーション、そして多重化についての話を始めます。
+^ 大阪大学基礎工学部 電気工学特別講義 2026年6月23日分 トピック02 遅延と物理法則、集中的コミュニケーション、そして多重化についての話を始めます。
 
 ---
 
 # Kenji Rikitake
 
-24-JUN-2026
+23-JUN-2026
 School of Engineering Science, The University of Osaka
 On the internet
 @jj1bdx
