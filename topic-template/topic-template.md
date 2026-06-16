@@ -6,6 +6,8 @@ autoscale: true
 # oueees-202606 topic 00:
 # [fit] Talk topic
 
+* Or simply make a bullet list of topics
+
 <!-- Use Deckset 2.0, 16:9 aspect ratio -->
 
 ---
