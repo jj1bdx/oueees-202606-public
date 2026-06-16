@@ -62,6 +62,12 @@ The University of Osaka School of Engineering Science prohibits copying/redistri
 
 ---
 
+![](nikkei-225.jpg)
+
+^ ここに示しているのは日経平均指数と呼ばれる代表的な225銘柄の株価に基づく指数の1970年から今年2026年までの動向です。現在の状況はすでに1989年12月のバブル時代の最高値をずっと上回っていることがわかります。なお、2026年6月15日の東京株式市場での日経平均終値はこのグラフの値を大幅に上回っており、69317円となっています。投機的な株価市場の相場は、世界の平和や安定とはまったく関連なく上下する、ということがわかると思います。
+
+---
+
 # [fit] 2026: the hard-cold reality of color ink shortage [^1]
 
 ![inline](kalbee-monochrome-potatochips.jpg)
