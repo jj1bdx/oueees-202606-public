@@ -137,22 +137,22 @@ No global routing for these address blocks:
 
 # IPv6 addresses: 128 bits
 
-* 2404:6800:4004:826::2004
-* 2404:6800:400a:0826:0000:0000:0000:2004
-* a www.google.com address, as of 18-JUN-2025 0906UTC
+* 2a03:2880:f24e:e0:face:b00c::4420
+* 2a03:2880:f24e:00e0:face:b00c:0000:4420
+* a www.instagram.com address, as of 17-JUN-2026 0318UTC
 * :xxxx: = up to 4 hex digits
 * :: = arbitrary number of 0, appearing only once in an address
 * Your lookup results may vary
 
-^ IPv4アドレスではアドレスが不足してしまうため、最近のインターネットではIPバージョン6あるいはIPv6アドレスも使われています。これは128ビット固定長の整数で、16進数4桁ごとにコロンで区切って表します。0が続く部分は一度だけコロン2つで省略できるようになっています。例示したのは最近確認したwww.google.comのアドレスです。
+^ IPv4アドレスではアドレスが不足してしまうため、最近のインターネットではIPバージョン6あるいはIPv6アドレスも使われています。これは128ビット固定長の整数で、16進数4桁ごとにコロンで区切って表します。0が続く部分は一度だけコロン2つで省略できるようになっています。例示したのは最近確認したwww.instagram.comのアドレスです。昨年まではGoogleのアドレスだったんですが、今年はGoogleのIPv6アドレスは様変りしていました。興味ある人は自分で調べてみてください。
 
 ---
 
 # IPv6 addresses with netmask
 
-* 2404:6800:400a:818::2004/64
-* Network: 2404:6800:400a:818::/64
-* Host number: 0x0000000000002004
+* 2a03:2880:f24e:e0:face:b00c::4420/64
+* Network: 2a03:2880:f24e:e0::/64
+* Host number: 0xfaceb00c00004420
 * Host number: 64 bits (0: network)
 * Broadcast -> multicast addresses
 * ff02::1 = all hosts, ff02::2 = all routers, etc.
