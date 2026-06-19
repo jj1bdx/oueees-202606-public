@@ -46,7 +46,7 @@ The University of Osaka School of Engineering Science prohibits copying/redistri
 * Keyword at the end of the talk
 * URL for submitting the report at the end of the talk
 
-^ レクチャーノートはGitHubのこのURLに掲載しています。講義の最後に各回のキーワードとレポート提出のためのURLを示します。
+^ レクチャーノートはGitHubのこのURLに掲載しています。講義の最後に各回のキーワードを示します。
 
 ---
 
