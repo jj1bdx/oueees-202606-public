@@ -322,9 +322,6 @@ Survey of 144 music supervisors, filmmakers, and advertisers by leading music co
 # Photo and image credits
 
 * All photos and images are modified and edited by Kenji Rikitake
-* Photos are from Unsplash.com unless otherwise noted
-* Free Wifi Inside: [Photo by Bernard Hermant](https://unsplash.com/photos/X0EtNWqMnq8)
-* Pedestrians: [Photo by Ryoji Iwata](https://unsplash.com/photos/IBaVuZsJJTo)
 
 <!--
 Local Variables:
